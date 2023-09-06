@@ -50,7 +50,8 @@ To Create SVG logos, run the following command:
 Follow the prompts to select a shape, specify colors, and add text to your logo. The generated SVG will be saved as logo.svg in the project directory.
 
 ### Examples
-
+https://drive.google.com/file/d/1XaF8hbiGViuJkFPPD1-0VTTgChkTt7aM/view
 
 ### License
 
+ClI
