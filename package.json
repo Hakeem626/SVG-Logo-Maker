@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Hakeem626/SVG-Logo-Maker#readme",
   "dependencies": {
+    "inquirer": "^8.2.4",
     "jest": "^29.6.4"
   }
 }
